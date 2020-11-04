@@ -66,6 +66,7 @@
   font-size: 60px;
   line-height: 1.15;
   font-weight: 600;
+  z-index: 1;
 }
 .section-subtitle {
   margin: 0;
@@ -92,6 +93,7 @@
   flex-wrap: wrap;
   justify-content: space-between;
   list-style-type: none;
+  z-index: 1;
 }
 
 .table__cell {
@@ -120,7 +122,7 @@
   margin-right: 0;
   width: 200px;
   color: white;
-  z-index: 1;
+  
 }
 
 /* header */
@@ -184,7 +186,7 @@
 /* description */
 
 .description {
-  padding-top: 100px; 
+  padding-top: 100px;
   display: flex;
   justify-content: center;
 }
