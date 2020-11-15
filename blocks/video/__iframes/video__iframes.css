@@ -1,5 +1,6 @@
 .video__iframes {
-  position: absolute;
   margin: 0 auto;
-  margin-top: 180px;
+  margin-top: 50px;
+  margin-bottom: -50px;
+  font-size: 0;
 }

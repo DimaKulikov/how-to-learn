@@ -1,6 +1,4 @@
 .video {
-  position: relative;
-  min-height: 430px;
   padding-top: 100px;
   display: flex;
   flex-direction: column;
